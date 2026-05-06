@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tomader-gaan/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Tomader Gaan](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
