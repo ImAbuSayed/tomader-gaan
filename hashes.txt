@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tomader Gaan
+
+This log tracks the cryptographic history and versioning for the song **Tomader Gaan** (tomader-gaan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:51:13.092750 | `v1` | `260e346cca2478c254c6fa93ea064d34180deaecbd7cbb44bceb2a1656277bc0` | `91f206e4d99cd4cdc9a20b281bd53553a9dcec016ccad1e97884fc241fd92df9` | `2026-05-08_tomader-gaan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
